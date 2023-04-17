@@ -2,6 +2,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
+    background-image:linear-gradient(#CBB4FF,#F7C98F);
 }
 .menu ul{
     background-color: #CCC;
@@ -33,3 +34,4 @@ header, section, footer{
     text-decoration: none;
     border-radius: 0.5em;
 }
+
