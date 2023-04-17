@@ -24,14 +24,24 @@ header, section, footer{
 #imagem-perfil{
     width: 100%;
     max-width: 600px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
 }
 .button{
-    background-color: blue;
+    background-color: #AD32D8;
     color: white;
     padding: 1em;
     margin: 1em 0;
-    display: inline-block;
+    display: grid;
     text-decoration: none;
-    border-radius: 0.5em;
+    border-radius: 0.2em;
+    justify-content: center;
+    width:50%;
 }
 
+div{
+    justify-content: center;
+    align-items: center;
+
+}
